@@ -1,4 +1,4 @@
-# Evaluating NBA Players Using Physical, and Statistical Characteristics
+# Evaluating NBA Players Using Physical and Statistical Characteristics
 
 Utilized National Basketball Association (NBA) player's statistics based on physical and statistical characteristics to answer three guiding questions:
 
