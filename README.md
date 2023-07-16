@@ -51,4 +51,14 @@ Once our classification analysis is complete, we will attempt to answer the last
 
 # Data Source
 
-We found the original data for our project from Basketball Reference (www.basketball-reference.com) which records the in-game performance and statistics of basketball players in the NBA during games. The second set of datasets we will be using comes from the NBA’s official website which records the players heights and weights for every NBA season.
+We found the original data for our project from Basketball Reference (www.basketball-reference.com) which records the in-game performance and statistics of basketball players in the NBA during games. The second set of datasets we will be using comes from the NBA’s official website which records the players' heights and weights for every NBA season.
+
+## Contribute
+
+Contributions to the DistilYT project are welcome! If you have any ideas, bug fixes, or enhancements, feel free to submit a pull request.
+
+You can open an [issue](https://github.com/vishnux/DistilYT/issues) or [pull request](https://github.com/vishnux/DistilYT/pulls).
+
+Here are some ideas on [How to Contribute](https://opensource.guide/how-to-contribute/).
+
+Please adhere to this project's [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
